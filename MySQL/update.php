@@ -6,7 +6,7 @@
  * Time: 18:44
  */
 $mysql_conf = array(
-    'host'    => '127.0.0.1:3306',
+    'host'    => '47.94.13.255:3306',
     'db'      => 'quan',
     'db_user' => 'root',
     'db_pwd'  => 'quan',
